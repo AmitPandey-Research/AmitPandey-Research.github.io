@@ -14,33 +14,26 @@ I am an Undergraduate researcher at CVIT, IIIT Hyderabad. Currently pursuing my 
 I am currently working on Neural Rendering, Neural Scene editing, and Computer graphics as my research work under Professor PJ Narayan, in CVIT. I have worked previously on NLP (Fake news detection) and Reinforcement Learning. Proficient in Computer Vision, Reinforcement Learning, Artificial Intelligence, Deep Learning, Natural Language Processing, web-dev, app-dev with demonstrated history of work.
 I am passionate about building real-life applications for solving problems faced by people worldwide.
 
-Education
-======
-* International Institute of Information Technology, Hyderabad, India (2019-2023)
-B.Tech(Hons) + MS by Research in Computer Science
-* Holy Cross S.S school, Pension Bada - Raipur, Chhattisgarh, India (2002-2017)
-Intermediate - AISSCE, May 2017 
-Mathematics, Informatics Practices, Chemistry 90/100, Agg. 84.8%​
-Matriculation - AISSE, May 2015 , 8.6 CGPA
+* International Institute of Information Technology, Hyderabad, India (2020-Present)
+MS by Research - focused on Statistical AI, Applied NLP and Multimodal Machine Learning. 
+9 CGPA
+* BVCOE, GGSIPU, New Delhi, India
+B.Tech in ECE - First Division (8.07 CPGA)
+Intermediate - CBSE
+PCM with Computer Science - 92.2%
 
 Work experience
 ======
-
-* May 2021- Present: Research Intern 
-  * IBM Research | Bangalore, India
-===
- Research project on building system for Goal Oriented Next Best Action Prediction in Business Processes using Deep Reinforcement Learning.
-
-
-* May 2020- Present: Researcher
-  * CVIT, IIIT Hyderabad
-===
+* Aug 2020- Present: Data Science Researcher
+  * DSAC, IIIT Hyderabad
+  * Supervisor: Professor Vikram Pudi
   Working on Computer Vision and Graphics under Professor P.J. Narayan. Work involves Neural rendering, ray tracing and 3D reconstruction of objects and scenes. Working on photo-realistic reconstructions and rendering of scenes from images using Deep Neural Networks. Currently working on NeRF(Neural Radiance fields) line of work. Implemented and reproduced results of several papers in neural rendering.
 
 
-* Dec 2020-Present: Independent Study and Researcher
-  * CVIT, IIIT Hyderabad
-  Independent Study under Professor Avinash Sharma. Working on Realistic Human Body Reconstructions and Digital Humans.
+* Oct 2021-Present: Lab Instructor and Teaching Assistant
+  * FMML, IIIT Hyderabad
+  * Supervisor: Professor C V Jawahar and Anoop Namboodiri
+    Lab instructor and teaching assistant for UG and PG students enrolled in Foundations of Modern Machine Learning course. Also take office hours and doubt clearing sessions.
 
 
 * June - July 2020: Crew Member and Mentee
