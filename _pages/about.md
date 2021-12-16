@@ -27,13 +27,13 @@ Work experience
 * Aug 2020- Present: Data Science Researcher
   * DSAC, IIIT Hyderabad
   * Supervisor: Professor Vikram Pudi
-  Working on Computer Vision and Graphics under Professor P.J. Narayan. Work involves Neural rendering, ray tracing and 3D reconstruction of objects and scenes. Working on photo-realistic reconstructions and rendering of scenes from images using Deep Neural Networks. Currently working on NeRF(Neural Radiance fields) line of work. Implemented and reproduced results of several papers in neural rendering.
+  * Working on Computer Vision and Graphics under Professor P.J. Narayan. Work involves Neural rendering, ray tracing and 3D reconstruction of objects and scenes. Working on photo-realistic reconstructions and rendering of scenes from images using Deep Neural Networks. Currently working on NeRF(Neural Radiance fields) line of work. Implemented and reproduced results of several papers in neural rendering.
 
 
 * Oct 2021-Present: Lab Instructor and Teaching Assistant
   * FMML, IIIT Hyderabad
   * Supervisor: Professor C V Jawahar and Anoop Namboodiri
-    Lab instructor and teaching assistant for UG and PG students enrolled in Foundations of Modern Machine Learning course. Also take office hours and doubt clearing sessions.
+  * Lab instructor and teaching assistant for UG and PG students enrolled in Foundations of Modern Machine Learning course. Also take office hours and doubt clearing sessions.
 
 
 * June - July 2020: Crew Member and Mentee

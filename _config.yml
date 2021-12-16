@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Avani Gupta"
+title                    : "Amit Pandey"
 title_separator          : "-"
-name                     : &name "Avani Gupta"
+name                     : &name "Amit Pandey"
 description              : &description "Computer Vision and Graphics Researcher"
 url                      : https://AmitPandey-Research.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Avani Gupta"
+  name             : "Amit Pandey"
   avatar           : "profile.jpeg"
   bio              : "Computer Vision and Computer Graphics researcher at CVIT, IIIT Hyderabad"
   location         : "Hyderabad"
