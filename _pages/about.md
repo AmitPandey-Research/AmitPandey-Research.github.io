@@ -15,12 +15,12 @@ I am currently working on Neural Rendering, Neural Scene editing, and Computer g
 I am passionate about building real-life applications for solving problems faced by people worldwide.
 
 * International Institute of Information Technology, Hyderabad, India (2020-Present)
-MS by Research - focused on Statistical AI, Applied NLP and Multimodal Machine Learning. 
+- MS by Research - focused on Statistical AI, Applied NLP and Multimodal Machine Learning. 
 9 CGPA
 * BVCOE, GGSIPU, New Delhi, India
-B.Tech in ECE - First Division (8.07 CPGA)
-Intermediate - CBSE
-PCM with Computer Science - 92.2%
+- B.Tech in ECE - First Division (8.07 CPGA)
+* Intermediate - CBSE
+- PCM with Computer Science - 92.2%
 
 Work experience
 ======
