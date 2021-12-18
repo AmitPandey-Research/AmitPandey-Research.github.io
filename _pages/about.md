@@ -41,7 +41,6 @@ Work experience
 
 * May 2018 - Aug 2020 : Product Manager 
   * Aphelia Innovations
-===
   * Optimized Products and services to best suit clients requirements by working closely on all the parts of the Product lifecycle- Conceptualisation, Designing, Testing,  and Deployment and Marketing.
   Ensured on-time delivery of high-quality products and services by leading a team of programmers, designers, and marketing professionals.
   Created a hassle-free experience for clients with effective communication
