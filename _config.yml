@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amit Pandey"
 title_separator          : "-"
 name                     : &name "Amit Pandey"
-description              : &description "Computer Vision and Graphics Researcher"
+description              : &description "Data Science Researcher"
 url                      : https://AmitPandey-Research.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AmitPandey-Research/AmitPandey-Research.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Amit Pandey"
   avatar           : "profile.jpeg"
-  bio              : "Computer Vision and Computer Graphics researcher at DSAC, IIIT Hyderabad"
+  bio              : "Data Science Researcher at Kohli Centre on Intelligent Systems-DSAC IIIT Hyderabad."
   location         : "Hyderabad"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : AmitPandey-Research@gmail.com, avani.gupta@research.iiit.ac.in
+  email            : amitpandeyresearch@gmail.com, amit.pandey@research.iiit.ac.in
   researchgate     : 
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "AmitPandey-Research-gupta/"
+  linkedin         : "www.linkedin.com/in/amitpandey2910"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "Avani_Gupta__"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
