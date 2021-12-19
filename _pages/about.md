@@ -9,7 +9,7 @@ redirect_from:
 ---
 Greetings!
 This is Amit Pandey.
-A Researcher with Passion for Products and Poetry. 
+  A Researcher with Passion for Products, Poetry and Teaching.
 
  I am a Data Science Researcher working with Prof. Vikram Pudi at the Data Sciences and Analytics Center, KCIS-IIIT Hyderabad.As a researcher with a passion for entrepreneurship, my interests include Statistical Al, Applied Machine Learning, Natural Language Processing & Understanding, Computer Vision, and Business Intelligence.
 Experienced Product Manager with a demonstrated history of working in the fast-paced tech startup environment. 
@@ -73,7 +73,7 @@ Work experience
 * GrabCut 
   * Implemented GrabCut(Microsoft)- An Interactive Foreground Extraction using Iterated Graph Cuts based on Maxflow-Mincut optimization problem. 
 
-* Paranoma Generator
+* Panaroma Generator
   * Stitch together multiple images of same scene (in random order) with some overlapping portion to get a panaromic image. Can be used for indoor and outdoor scene recreation. 
 
 * Suicidal Tendency detection 
