@@ -30,7 +30,7 @@ Work experience
 * Oct 2021-Present: Lab Instructor and Teaching Assistant
   * FMML, IIIT Hyderabad
   * Supervisor: Professor C V Jawahar and Anoop Namboodiri
-  * Lab instructor and teaching assistant for UG and PG students enrolled in Foundations of Modern Machine Learning course. Also take office hours and doubt clearing sessions.
+  * Lab instructor and teaching assistant for UG and PG students enrolled in Foundations of Modern Machine Learning course. Guiding around 60 students
 
 
 * May 2018 - Aug 2020 : Product Manager 
@@ -44,13 +44,11 @@ Projects
 ======
 * Blue Whale detection
   * Developed a system to detect and identify Blue whales (endangered species). 
-  Lighter, faster and Robust system giving an accuracy comparable to the system developed by Stanford University team.
+  A Light, fast and Robust system giving an accuracy comparable to the system developed by Stanford University team.
   (To be submitted )
 
 * Biometric Pattern Classification for Fasater Identification
-  * Created a pipeline to classify finger print patters for downward task of Identification. It acted as preliminary step for reducing complexity of database search in the problem of automatic fingerprint matching . Because , if a query image can be classified with high accuracy, the subsequent matching algorithm only needs to compare stored images belonging to the same class.
-  Explored SVM's capability of learning sparse high dimensional data. This paired with carefully picked image processing techniques gave results which are comparable to deep learning techniques.
-
+  * Created a pipeline to classify finger print patters for downward task of Identification. It acted as preliminary step for reducing complexity of database search in the problem of automatic fingerprint matching . Though it didn't out perform neural networks, it explored SVM's capability of learning sparse high dimensional data. Low training data requirement, introduction of Error of Correcting Codes paired with carefully picked image processing techniques gave impressive results.
   Improved speed of identification by more than 2x and accuracy by around 7% (over other non-dl techniques).  
 
 * Scientific Document Summarization
