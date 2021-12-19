@@ -25,6 +25,10 @@ Education
 * BVCOE, GGSIPU, New Delhi, India : B.Tech in ECE - First Division (8.07 CPGA)
 * Intermediate - CBSE : PCM with Computer Science - 92.2%
 
+Related Courses
+======
+* Statistical Methods in AI , Optimization Methods, Advanced NLP, Applied NLP, Computer Vision, Digital Image Processing, Topics in Applied Optimization.
+
 Work experience
 ======
 * Aug 2020- Present: Data Science Researcher
