@@ -11,13 +11,14 @@ Greetings!
 This is Amit Pandey.
   A Researcher with Passion for Products, Poetry and Teaching.
 
- I am a Data Science Researcher working with Prof. Vikram Pudi at the Data Sciences and Analytics Center, KCIS-IIIT Hyderabad.As a researcher with a passion for entrepreneurship, my interests include Statistical Al, Applied Machine Learning, Natural Language Processing & Understanding, Computer Vision, and Business Intelligence.
+ I am a Data Science Researcher working with Prof. Vikram Pudi at the Data Sciences and Analytics Center, KCIS-IIIT Hyderabad.
+My interests include Statistical Al, Applied Machine Learning, Natural Language Processing & Understanding, Computer Vision, and Business Intelligence.
 Experienced Product Manager with a demonstrated history of working in the fast-paced tech startup environment. 
 
 Currently working on:
 Feature-rich contextual embeddings for downward tasks such as Classification, Ranking, and Recommendation.
 
-Reach out for discussing new ideas and research collaboration.
+Reach out for discussing new ideas and for research collaboration. 
 
 
 Education
